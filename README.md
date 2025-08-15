@@ -1,1 +1,1 @@
-I'm a new Python/Flask developer,
+I'm a new Python/Django developer, and 
