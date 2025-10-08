@@ -1,1 +1,1 @@
-I'm a new Python/Django developer, and 
+This is my Local repo in git hub 
